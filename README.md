@@ -2,6 +2,8 @@
 
 In week four we've learned about a few different classifiers. In week five we'll learn about webscraping, APIs, and Natural Language Processing (NLP). This project will put those skills to the test.
 
+In this project
+
 Used [Pushshift's](https://github.com/pushshift/api) API to collect posts from two subreddits. 
 Used NLP to train classifiers to predict what subreddit a given post originated from.
 (binary classification problem.)
